@@ -36,7 +36,7 @@ object **Hugo** {
 [website]: https://hugox6.github.io/
 [linkedin]: https://www.linkedin.com/in/hugo-macedo-947b1a212/
 <br>
-#### Rede Sociais! 
+#### 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
 
