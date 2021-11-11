@@ -15,8 +15,6 @@ object **Hugo** {
  val acknowledgements = "Student Analysis and Systems Development"
  
  val primarySkillset = "Programmer - Indie Game Developer - Web Developer"
-
-
 }
 ```
 
