@@ -4,6 +4,8 @@
 https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif
 
 https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1
+
+ val languages = listOf("Java", "Python", "JavaScript")
 -->
 <img align="right" width="300" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
 
@@ -13,7 +15,7 @@ object **Hugo** {
  val acknowledgements = "Student Analysis and Systems Development"
  
  val primarySkillset = "Programmer - Indie Game Developer - Web Developer"
- val languages = listOf("Java", "Python", "JavaScript")
+
 
 }
 ```
