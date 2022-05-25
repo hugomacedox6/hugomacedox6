@@ -37,7 +37,7 @@ object **Hugo** {
 </a>
 
 [website]: https://hugox6.github.io/
-[linkedin]: https://www.linkedin.com/in/hugo-macedo-947b1a212/
+[linkedin]: https://www.linkedin.com/in/hugo-macedo-23a9a6239/
 <br>
 #### 
 🏡 [website][website] **|** 
