@@ -28,15 +28,15 @@ object **Hugo** {
 
 ## **GitHub Statistics**
 
-<a href="https://github.com/hugox6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugox6&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/hugomacedox6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomacedox6&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/hugox6">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugox6&show_icons=true&theme=dracula&line_height=27" alt="**Hugo** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugomacedox6&show_icons=true&theme=dracula&line_height=27" alt="**Hugo** github stats"/>
 </a>
 
-[website]: https://hugox6.github.io/
+[website]: https://hugomacedox6.github.io/
 [linkedin]: https://www.linkedin.com/in/hugo-macedo-23a9a6239/
 <br>
 #### 
