@@ -11,7 +11,7 @@ public static class Hugo
 }
 ```
 
-🔭 I’m currently working on logistic software in Easylogistica
+🔭 I’m currently working on logistic software in LogisticaEasy
 <br>
 🌱 I’m currently learning Delphi, Rust and C#.
 
